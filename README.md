@@ -2,8 +2,6 @@
 
 A Spring Boot application demonstrating Razorpay payment gateway integration for processing payments and managing transaction records.
 
-![Razorpay Integration Demo](https://avatars.githubusercontent.com/u/128212455?v=4)
-
 ## Features ✨
 - Create Razorpay orders and process payments
 - Store transaction details in database
